@@ -3,7 +3,7 @@
 Better Roleplay (BRP) is a lightweight and easy-to-integrate FiveM framework designed for roleplay servers. Developed by a single creator, BRP provides a simple yet powerful core system that seamlessly integrates with existing scripts.
 
 ## Features
-- **ESX Compatibility Mode** – BRP can mimic ESX, allowing scripts made for ESX to work with minimal modifications.
+- **ESX Compatibility Mode** – BRP can mimic ESX, allowing scripts made for ESX to work with no modifications.
 - **Lightweight & Efficient** – Designed for performance and easy integration.
 - **Single-Developer Project** – Focused on quality and simplicity.
 
