@@ -15,13 +15,7 @@ local BRP = exports['better_core']:getSharedObject()
 This allows you to access the framework's core functions, similar to ESX.
 
 ## Installation
-1. Download the latest version of Better Roleplay.
-2. Add `better_core` to your FiveM server's resources folder.
-3. Ensure `better_core` is started in your `server.cfg`:
-   ```
-   ensure better_core
-   ```
-4. Start developing using BRP!
+As BRP is still in the works, there is no way to really use it.
 
 ## Support & Contributions
 Since BRP is developed by a single creator, contributions and feedback are always welcome. Feel free to reach out for support or feature requests!
